@@ -6,7 +6,7 @@
 
 `2023/2º SEMESTRE`
 
-O Amigo Sangue Bom é uma plataforma Web desenvolvida com o objetivo de transformar a doação de sangue em um hábito comum e regular a fim de atrair um número cada vez maior de pessoas. Para tornar isso possível, unimos compaixão e tecnologia e desenvolvemos um site onde será possível criar campanhas, gerenciar doações, encontrar locais para doação de sangue e conscientizar o público-alvo.
+O Amigo Sangue Bom é uma plataforma Web desenvolvida com o objetivo de transformar a doação de sangue em um hábito comum e regular a fim de atrair um número cada vez maior de pessoas. Para tornar isso possível, unimos compaixão e tecnologia e desenvolvemos um site onde será possível validar elegibilidade para doação, compartilhar campanhas, gerenciar doações, encontrar locais para doação de sangue e conscientizar o público-alvo.
 
 ## Integrantes 👨🏻‍💻
 
